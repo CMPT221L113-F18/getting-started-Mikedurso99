@@ -1,0 +1,35 @@
+/*This is the css file for the Heat Index Calculator*/
+
+/*This makes the entire background teal*/
+body 
+
+{
+    background-color: teal;
+}
+
+
+/*Heat Index Calculator*/
+h1 
+{
+    color: red;
+} 
+
+
+/*The explanation for the Web app*/
+p  
+{
+	color: yellow;
+}
+
+/*The labels just before the input boxes*/
+label
+{
+	color: orange
+}
+
+
+/*The output statement and the actual heat index answer*/
+output
+{
+	color: silver;
+}
